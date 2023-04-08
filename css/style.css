@@ -300,8 +300,8 @@ body {
 .rotate-img { display: none; }
 
 .hero {
-/*   background-image: url("./images/bgt.jpg"); */
-  background-image:url("https://raw.githubusercontent.com/Hibbanur-Rahman/mannu-portfolio/91073343dec1e0b608b766f04ba0b16e315b5ca8/images/bgt.jpg");
+  background-image: url("../images/bgt.jpg");
+/*   background-image:url("https://raw.githubusercontent.com/Hibbanur-Rahman/mannu-portfolio/91073343dec1e0b608b766f04ba0b16e315b5ca8/images/bgt.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
